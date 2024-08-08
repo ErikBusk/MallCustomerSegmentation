@@ -14,7 +14,7 @@ The main conclusion is that the most relevant customer segment contains customer
 **Packages:** Pandas, Seaborn, Matplotlib, Sklearn
 
 ## Data
-The analysis has been conducted using a dataset from Kaggle available [here](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated).
+The analysis has been conducted using a dataset from Kaggle available [here](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
 The datasets include the columns listed below
 * CustomerID
 * Gender
