@@ -23,10 +23,21 @@ The datasets include the columns listed below
 * Spending Score (A score assigned by the mall based on customer behavior and spending nature)
 
 ## Exploratory Data Analysis
-Below are some of the highlights from the exploratory analysis
+Below are some of the highlights from the exploratory analysis  
+  
+![Relations between variable pairs](Images/relations_between_variable_pairs.png "Relations between variable pairs")  
 
+![Correlations](Images/correlations.png "Correlations") 
 
 ## Clustering
-First, a univariate clustering based on annual income was conducted. This resulted in the clusters below:
+First, a univariate clustering based on annual income was conducted. This resulted in the clusters below:  
 
-In a second step bivariate clustering was conducted based on annual income and spending score. The result was 5 different clusters as can be seen below.
+![Mean Values for customers in each Income cluster](Images/income_cluster_averages.png "Mean Values for customers in each Income cluster")  
+
+In a second step bivariate clustering was conducted based on annual income and spending score. The result was 5 different clusters as can be seen below.  
+
+![Annual income in relation to spending scores](Images/clustering_bivariate.png "Annual income in relation to spending scores")  
+
+![Share of Genders per Spending and Income Cluster](Images/gender_percentage_by_spending_and_income_cluster.png "Share of Genders per Spending and Income Cluster")  
+
+![Mean Values for customers in each Spending and Income cluster](Images/average_values_by_spending_and_income_cluster.png "Mean Values for customers in each Spending and Income cluster")  
