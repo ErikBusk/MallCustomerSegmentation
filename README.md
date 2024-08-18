@@ -34,10 +34,12 @@ First, a univariate clustering based on annual income was conducted. This result
 
 ![Mean Values for customers in each Income cluster](Images/income_cluster_averages.png "Mean Values for customers in each Income cluster")  
 
-In a second step bivariate clustering was conducted based on annual income and spending score. The result was 5 different clusters as can be seen below.  
+In a second step, bivariate clustering was conducted based on annual income and spending score. The result was 5 different clusters as can be seen below.  
 
 ![Annual income in relation to spending scores](Images/clustering_bivariate.png "Annual income in relation to spending scores")  
 
-![Share of Genders per Spending and Income Cluster](Images/gender_percentage_by_spending_and_income_cluster.png "Share of Genders per Spending and Income Cluster")  
+As a final step, a multivariate clustering was conducted with the results shown below.
 
-![Mean Values for customers in each Spending and Income cluster](Images/average_values_by_spending_and_income_cluster.png "Mean Values for customers in each Spending and Income cluster")  
+![Pair plot of multivariate clusters](Images/clustering_multivariate.png "Pair plot of multivariate clusters")  
+
+![Mean Values for customers in each cluster](images/average_values_by_multi_feature_cluster.png "Mean Values for customers in each cluster")  
