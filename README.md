@@ -42,4 +42,4 @@ As a final step, a multivariate clustering was conducted with the results shown 
 
 ![Pair plot of multivariate clusters](Images/clustering_multivariate.png "Pair plot of multivariate clusters")  
 
-![Mean Values for customers in each cluster](images/average_values_by_multi_feature_cluster.png "Mean Values for customers in each cluster")  
+![Mean Values for customers in each cluster](Images/average_values_by_multi_feature_cluster.png "Mean Values for customers in each cluster")  
