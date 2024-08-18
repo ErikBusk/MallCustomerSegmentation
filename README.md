@@ -1,4 +1,4 @@
-# Mall customer segmentation: Project overview
+# Shopping mall customer segmentation: Project overview
 
 ## Summary
 This projects examines a data set of customer data from visitors to a shopping mall. The purpuose is to identify which customer segment that is best for the mall to target with marketing efforts.
