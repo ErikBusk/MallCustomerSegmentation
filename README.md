@@ -4,7 +4,7 @@
 This projects examines a data set of customer data from visitors to a shopping mall. The purpuose is to identify which customer segment that is best for the mall to target with marketing efforts.
 The project covered the following:
 * Exploratory univariate and bivariate analysis of the data
-* Univariate and bivariate clustering, using the unsuprivised machine learning algorithm k-means, to identify the most relevant customer segment
+* Univariate, bivariate and multivariate clustering, using the unsuprivised machine learning algorithm k-means, to identify the most relevant customer segment
 * Analysis to understand the caracteristics of the identified segment
 
 The main conclusion is that the most relevant customer segment contains customers with a high income as well as high spending. The customers in the segment are on average 33 years old and the segment comprises of slightly more females than males. The mall should therefore prioritize this segment during marketing efforts.
